@@ -26,6 +26,8 @@ public class Excelimport {
 			  System.out.print(cell+" ");
 		  }
 		  System.out.println();
+		  System.out.println("test txt");
+		  System.out.println("changes done");
 	  }  
 	}
 	}
